@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/drawable/border.xml" value="0.201" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2735" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/drawable/spinner.xml" value="0.263" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/activity_admin.xml" value="0.22060709705002138" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/activity_chi_tiet.xml" value="0.22060709705002138" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/activity_gio_hang.xml" value="0.22060709705002138" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/activity_khach_hang.xml" value="0.33" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/activity_lienhe.xml" value="0.25" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/activity_login.xml" value="0.22060709705002138" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/activity_qlchitietdonhang.xml" value="0.2178134233853947" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/activity_qldonhang.xml" value="0.22060709705002138" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/activity_qlsanpham.xml" value="0.25" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/activity_qlthongtinhang.xml" value="0.2178134233853947" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/activity_quanlysanpham.xml" value="0.2178134233853947" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/activity_suasanpham.xml" value="0.2178134233853947" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/activity_tourmientrung.xml" value="0.22060709705002138" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/activity_xecontay.xml" value="0.2178134233853947" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/activity_xecontudong.xml" value="0.2178134233853947" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/activity_xesotudong.xml" value="0.2178134233853947" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/cuttondialog.xml" value="0.2178134233853947" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/dong_giohang.xml" value="0.2178134233853947" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/dong_loaisanpham.xml" value="0.2178134233853947" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/dong_qlchitietdonhang.xml" value="0.2178134233853947" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/dong_qldonhang.xml" value="0.22060709705002138" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/dong_quanlythongtinhang.xml" value="0.22060709705002138" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/dong_sanphammoinhat.xml" value="0.22060709705002138" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/dong_tourmienbac.xml" value="0.22060709705002138" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/dong_tourmientrung.xml" value="0.22060709705002138" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/dong_xecontay.xml" value="0.22060709705002138" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/dong_xecontudong.xml" value="0.22060709705002138" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/dong_xesotudong.xml" value="0.22060709705002138" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/layout/progressbar.xml" value="0.22060709705002138" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/menu/menu_item.xml" value="0.22060709705002138" />
+        <entry key="..\:/Android/btlAndroid-master/btlAndroid-master/app/src/main/res/menu/menu_popup.xml" value="0.22060709705002138" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/drawable/border.xml" value="0.125" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/drawable/box.xml" value="0.159" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/drawable/shadown.xml" value="0.1" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/activity_admin.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/activity_chi_tiet.xml" value="0.22" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/activity_gio_hang.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/activity_khach_hang.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/activity_lienhe.xml" value="0.2" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/activity_qlchitietdonhang.xml" value="0.2" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/activity_qldonhang.xml" value="0.2" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/activity_qlsanpham.xml" value="0.2" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/activity_qlthongtinhang.xml" value="0.2" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/activity_quanlysanpham.xml" value="0.2" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/activity_suasanpham.xml" value="0.2" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/activity_xecontay.xml" value="0.2" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/activity_xecontudong.xml" value="0.2" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/activity_xesotudong.xml" value="0.2" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/cuttondialog.xml" value="0.2" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/dong_giohang.xml" value="0.2" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/dong_loaisanpham.xml" value="0.2" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/dong_qlchitietdonhang.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/dong_qldonhang.xml" value="0.22" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/dong_quanlythongtinhang.xml" value="0.2" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/dong_sanphammoinhat.xml" value="0.2" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/dong_xecontay.xml" value="0.2" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/dong_xecontudong.xml" value="0.2" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/dong_xesotudong.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/layout/progressbar.xml" value="0.2" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/menu/menu_item.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/bodeo/Downloads/Android-AppBanHang-master/btlAndroid-master/app/src/main/res/menu/menu_popup.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/activity_admin.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/activity_chi_tiet.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/activity_gio_hang.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/activity_khach_hang.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/activity_lienhe.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/activity_login.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/activity_main.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/activity_qlchitietdonhang.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/activity_qldonhang.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/activity_qlsanpham.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/activity_qlthongtinhang.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/activity_quanlysanpham.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/activity_suasanpham.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/activity_xecontay.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/activity_xecontudong.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/activity_xesotudong.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/cuttondialog.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/dong_giohang.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/dong_loaisanpham.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/dong_qlchitietdonhang.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/dong_qldonhang.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/dong_quanlythongtinhang.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/dong_sanphammoinhat.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/dong_xecontay.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/dong_xecontudong.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/dong_xesotudong.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/layout/progressbar.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/menu/menu_item.xml" value="0.16417272338606242" />
+        <entry key="..\:/btlAndroid-master/app/src/main/res/menu/menu_popup.xml" value="0.16417272338606242" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
